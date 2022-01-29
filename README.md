@@ -16,27 +16,27 @@ The city of Des Moines has requested an analysis of data from New York Citibike.
 
 In order for us to properly utilize and visualize the "Trip Duration" data, it must be converted from its raw interger format to a date-time format.  This is accomplished by reading the source .csv file into a pandas dataframe (in Jupyter Notebook) and converting the column with the to_datetime() method.
 
-![dtypes_unclean.png]()
+![dtypes_unclean.png](https://github.com/ZeroDarkHardy/bikesharing/blob/main/resources/dtypes_unclean.png)
 
-![dtypes_clean.png]()
+![dtypes_clean.png](https://github.com/ZeroDarkHardy/bikesharing/blob/main/resources/dtypes_clean.png)
 
 Once the correct data-types have been verified, the dataframe is then exported to a new .csv file ("data.csv").
 
-![exported_csv.png]()
+![exported_csv.png](https://github.com/ZeroDarkHardy/bikesharing/blob/main/resources/exported_csv.png)
 
 ---
 
 ## Deliverable 2: Create Visualizations for the Trip Analysis
 
-![trip_duration_all_users.png]()
+![trip_duration_all_users.png](https://github.com/ZeroDarkHardy/bikesharing/blob/main/resources/trip_duration_all_users.png)
 
-![trip_duration_by_gender.png]()
+![trip_duration_by_gender.png](https://github.com/ZeroDarkHardy/bikesharing/blob/main/resources/trip_duration_by_gender.png)
 
-![heatmap_all_users.png]()
+![heatmap_all_users.png](https://github.com/ZeroDarkHardy/bikesharing/blob/main/resources/heatmap_all_users.png)
 
-![heatmap_by_gender.png]()
+![heatmap_by_gender.png](https://github.com/ZeroDarkHardy/bikesharing/blob/main/resources/heatmap_by_gender.png)
 
-![usertype_gender_use_breakdown.png]()
+![usertype_gender_use_breakdown.png](https://github.com/ZeroDarkHardy/bikesharing/blob/main/resources/usertype_gender_use_breakdown.png)
 
 ---
 
