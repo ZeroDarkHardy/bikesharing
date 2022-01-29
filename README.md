@@ -8,7 +8,7 @@ The city of Des Moines has requested an analysis of data from New York Citibike.
 
 ## Link to Tableau Story:
 
-[Click here to view the interactive Tableau Story]
+[Click here to view the interactive Tableau Story](https://public.tableau.com/app/profile/matthew.a.hardy/viz/CitibikeChallenge_16434005025880/NYCCitibikeAnalysis?publish=yes)
 
 ---
 
