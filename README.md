@@ -76,3 +76,19 @@ The dashboard shown above contains many relevant measurements regarding CitiBike
 
 ## Summary
 
+There are several clear takeaways from our data, but also some new questions that warrant further investigation.
+- The things we know for sure:
+    - The bulk of users are male subscribers.
+    - Subscribers use the bikes most during commute hours on week days, implying they are using the bikes to travel to and from work (as opposed to recreationally).
+    - Most users are 29 or older.
+    - Peak bike usage occurs on Thursdays, between 5pm and 8pm.
+    - Most users check out the for less than 20 minutes, with the most users checking out for only 5 minutes.  This implies that either they live close to where they work, or they're checking out bikes at public transit hubs that are near their jobs.
+- Opportunities for investigation:
+    - What is causing the spike in usage on Thursdays? What is causing the dropoff in usage on Wednesdays? Are the two patterns related?
+    - How would the usage patterns differ if a non-binary/3rd gender option was offered to subscribers?
+    - How can the service be better marketed to young people, to get customer numbers up as they become eligible to use the service?
+    - How can the service be better marketed to women? Only 25% of all users are women, yet they exibit the same usage patterns as men.
+
+In the future, I recommend creating map charts to see if there are areas that get more usage from female customers.  Perhaps the low usage among women is the result of an environmental factor, such as unsafe/poorly lit areas.
+
+A similar chart can be created to show usage patters for users of different ages.  Perhaps there are areas that young people frequent more, and more availability of bikes near transit hubs in those areas could lead to more use among users between the ages of 16 and 29.
